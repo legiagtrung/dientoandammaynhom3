@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/LTWeb/Libary/google-api-client-http-1.2.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/LTWeb/Libary/drive/google-api-services-drive-v2-rev254-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/LTWeb/Libary/drive/google-api-services-drive-v2-rev254-1.22.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/LTWeb/Libary/drive/google-api-services-drive-v2-rev254-1.22.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/LTWeb/Libary/google-oauth-client-1.16.0-rc.jar"/>
+	<classpathentry kind="lib" path="D:/LTWeb/Libary/google-oauth-client-java6-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="D:/LTWeb/Libary/google-api-services-drive-v3-rev59-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/LTWeb/Libary/google-oauth-client-jetty-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/LTWeb/Libary/google-api-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/LTWeb/Libary/google-http-client-1.16.0-rc.jar"/>
+	<classpathentry kind="lib" path="D:/LTWeb/Libary/google-http-client-jackson2-1.11.0-beta.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
